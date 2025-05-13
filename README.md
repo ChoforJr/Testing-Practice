@@ -1,3 +1,3 @@
-# Template
+# Testing Practice (Javascript)
 
-Repository template
+The Odin Project - Project: Testing Practice
